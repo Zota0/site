@@ -1,5 +1,6 @@
 body {
     min-height: 100%;
+    width: 100%;
 }
 
 #header-parent {
@@ -9,4 +10,15 @@ body {
 
 #header-parent > * {
     width: 50%;
+    text-align: right;
+}
+
+.head-ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.head-li {
+    text-decoration: none;
+    list-style-type: none;
 }
