@@ -762,247 +762,247 @@ br {
 /** Text Shadow's **/
 /*! Black shadow !*/
 /*? SMALL ?*/
-.shadow-em-1-1-1-black {
-    text-shadow: 1em 1em 1em black;
+.shadow-1-1-1-black {
+    text-shadow: 1px 1px 1px black;
 }
 
-.shadow-em-1-1-2-black {
-    text-shadow: 1em 1em 2em black;
+.shadow-1-1-2-black {
+    text-shadow: 1px 1px 2px black;
 }
 
-.shadow-em-1-1-3-black {
-    text-shadow: 1em 1em 3em black;
+.shadow-1-1-3-black {
+    text-shadow: 1px 1px 3px black;
 }
 
-.shadow-em-1-1-4-black {
-    text-shadow: 1em 1em 4em black;
+.shadow-1-1-4-black {
+    text-shadow: 1px 1px 4px black;
 }
 
-.shadow-em-1-1-5-black {
-    text-shadow: 1em 1em 5em black;
+.shadow-1-1-5-black {
+    text-shadow: 1px 1px 5px black;
 }
 
-.shadow-em-1-1-6-black {
-    text-shadow: 1em 1em 6em black;
+.shadow-1-1-6-black {
+    text-shadow: 1px 1px 6px black;
 }
 
-.shadow-em-1-1-7-black {
-    text-shadow: 1em 1em 7em black;
+.shadow-1-1-7-black {
+    text-shadow: 1px 1px 7px black;
 }
 
-.shadow-em-1-1-8-black {
-    text-shadow: 1em 1em 8em black;
+.shadow-1-1-8-black {
+    text-shadow: 1px 1px 8px black;
 }
 
-.shadow-em-1-1-9-black {
-    text-shadow: 1em 1em 9em black;
+.shadow-1-1-9-black {
+    text-shadow: 1px 1px 9px black;
 }
 
 /*? Bigger ?*/
-.shadow-em-2-1-1-black {
-    text-shadow: 1em 1em 1em black;
+.shadow-2-1-1-black {
+    text-shadow: 1px 1px 1px black;
 }
 
-.shadow-em-2-1-2-black {
-    text-shadow: 1em 1em 2em black;
+.shadow-2-1-2-black {
+    text-shadow: 1px 1px 2px black;
 }
 
-.shadow-em-2-1-3-black {
-    text-shadow: 1em 1em 3em black;
+.shadow-2-1-3-black {
+    text-shadow: 1px 1px 3px black;
 }
 
-.shadow-em-2-1-4-black {
-    text-shadow: 1em 1em 4em black;
+.shadow-2-1-4-black {
+    text-shadow: 1px 1px 4px black;
 }
 
-.shadow-em-2-1-5-black {
-    text-shadow: 1em 1em 5em black;
+.shadow-2-1-5-black {
+    text-shadow: 1px 1px 5px black;
 }
 
-.shadow-em-2-1-6-black {
-    text-shadow: 1em 1em 6em black;
+.shadow-2-1-6-black {
+    text-shadow: 1px 1px 6px black;
 }
 
-.shadow-em-2-1-7-black {
-    text-shadow: 1em 1em 7em black;
+.shadow-2-1-7-black {
+    text-shadow: 1px 1px 7px black;
 }
 
-.shadow-em-2-1-8-black {
-    text-shadow: 1em 1em 8em black;
+.shadow-2-1-8-black {
+    text-shadow: 1px 1px 8px black;
 }
 
-.shadow-em-2-1-9-black {
-    text-shadow: 1em 1em 9em black;
+.shadow-2-1-9-black {
+    text-shadow: 1px 1px 9px black;
 }
 /* sides */
-.shadow-em-1-2-1-black {
-    text-shadow: 1em 1em 1em black;
+.shadow-1-2-1-black {
+    text-shadow: 1px 1px 1px black;
 }
 
-.shadow-em-1-2-2-black {
-    text-shadow: 1em 1em 2em black;
+.shadow-1-2-2-black {
+    text-shadow: 1px 1px 2px black;
 }
 
-.shadow-em-1-2-3-black {
-    text-shadow: 1em 1em 3em black;
+.shadow-1-2-3-black {
+    text-shadow: 1px 1px 3px black;
 }
 
-.shadow-em-1-2-4-black {
-    text-shadow: 1em 1em 4em black;
+.shadow-1-2-4-black {
+    text-shadow: 1px 1px 4px black;
 }
 
-.shadow-em-1-2-5-black {
-    text-shadow: 1em 1em 5em black;
+.shadow-1-2-5-black {
+    text-shadow: 1px 1px 5px black;
 }
 
-.shadow-em-1-2-6-black {
-    text-shadow: 1em 1em 6em black;
+.shadow-1-2-6-black {
+    text-shadow: 1px 1px 6px black;
 }
 
-.shadow-em-1-2-7-black {
-    text-shadow: 1em 1em 7em black;
+.shadow-1-2-7-black {
+    text-shadow: 1px 1px 7px black;
 }
 
-.shadow-em-1-2-8-black {
-    text-shadow: 1em 1em 8em black;
+.shadow-1-2-8-black {
+    text-shadow: 1px 1px 8px black;
 }
 
-.shadow-em-1-2-9-black {
-    text-shadow: 1em 1em 9em black;
+.shadow-1-2-9-black {
+    text-shadow: 1px 1px 9px black;
 }
 
 /*! White shadow !*/
 /*? SMALL ?*/
-.shadow-em-1-1-10-white {
-    text-shadow: 1em 1em 10em white;
+.shadow-1-1-10-white {
+    text-shadow: 1px 1px 10px white;
 }
 
-.shadow-em-1-1-1-white {
-    text-shadow: 1em 1em 1em white;
+.shadow-1-1-1-white {
+    text-shadow: 1px 1px 1px white;
 }
 
-.shadow-em-1-1-2-white {
-    text-shadow: 1em 1em 2em white;
+.shadow-1-1-2-white {
+    text-shadow: 1px 1px 2px white;
 }
 
-.shadow-em-1-1-3-white {
-    text-shadow: 1em 1em 3em white;
+.shadow-1-1-3-white {
+    text-shadow: 1px 1px 3px white;
 }
 
-.shadow-em-1-1-4-white {
-    text-shadow: 1em 1em 4em white;
+.shadow-1-1-4-white {
+    text-shadow: 1px 1px 4px white;
 }
 
-.shadow-em-1-1-5-white {
-    text-shadow: 1em 1em 5em white;
+.shadow-1-1-5-white {
+    text-shadow: 1px 1px 5px white;
 }
 
-.shadow-em-1-1-6-white {
-    text-shadow: 1em 1em 6em white;
+.shadow-1-1-6-white {
+    text-shadow: 1px 1px 6px white;
 }
 
-.shadow-em-1-1-7-white {
-    text-shadow: 1em 1em 7em white;
+.shadow-1-1-7-white {
+    text-shadow: 1px 1px 7px white;
 }
 
-.shadow-em-1-1-8-white {
-    text-shadow: 1em 1em 8em white;
+.shadow-1-1-8-white {
+    text-shadow: 1px 1px 8px white;
 }
 
-.shadow-em-1-1-9-white {
-    text-shadow: 1em 1em 9em white;
+.shadow-1-1-9-white {
+    text-shadow: 1px 1px 9px white;
 }
 
-.shadow-em-1-1-10-white {
-    text-shadow: 1em 1em 10em white;
+.shadow-1-1-10-white {
+    text-shadow: 1px 1px 10px white;
 }
 
 /*? Bigger ?*/
-.shadow-em-2-1-10-white {
-    text-shadow: 1em 1em 10em white;
+.shadow-2-1-10-white {
+    text-shadow: 1px 1px 10px white;
 }
 
-.shadow-em-2-1-1-white {
-    text-shadow: 1em 1em 1em white;
+.shadow-2-1-1-white {
+    text-shadow: 1px 1px 1px white;
 }
 
-.shadow-em-2-1-2-white {
-    text-shadow: 1em 1em 2em white;
+.shadow-2-1-2-white {
+    text-shadow: 1px 1px 2px white;
 }
 
-.shadow-em-2-1-3-white {
-    text-shadow: 1em 1em 3em white;
+.shadow-2-1-3-white {
+    text-shadow: 1px 1px 3px white;
 }
 
-.shadow-em-2-1-4-white {
-    text-shadow: 1em 1em 4em white;
+.shadow-2-1-4-white {
+    text-shadow: 1px 1px 4px white;
 }
 
-.shadow-em-2-1-5-white {
-    text-shadow: 1em 1em 5em white;
+.shadow-2-1-5-white {
+    text-shadow: 1px 1px 5px white;
 }
 
-.shadow-em-2-1-6-white {
-    text-shadow: 1em 1em 6em white;
+.shadow-2-1-6-white {
+    text-shadow: 1px 1px 6px white;
 }
 
-.shadow-em-2-1-7-white {
-    text-shadow: 1em 1em 7em white;
+.shadow-2-1-7-white {
+    text-shadow: 1px 1px 7px white;
 }
 
-.shadow-em-2-1-8-white {
-    text-shadow: 1em 1em 8em white;
+.shadow-2-1-8-white {
+    text-shadow: 1px 1px 8px white;
 }
 
-.shadow-em-2-1-9-white {
-    text-shadow: 1em 1em 9em white;
+.shadow-2-1-9-white {
+    text-shadow: 1px 1px 9px white;
 }
 
-.shadow-em-2-1-10-white {
-    text-shadow: 1em 1em 10em white;
+.shadow-2-1-10-white {
+    text-shadow: 1px 1px 10px white;
 }
 
 /* sides */
-.shadow-em-1-2-10-white {
-    text-shadow: 1em 1em 10em white;
+.shadow-1-2-10-white {
+    text-shadow: 1px 1px 10px white;
 }
 
-.shadow-em-1-2-1-white {
-    text-shadow: 1em 1em 1em white;
+.shadow-1-2-1-white {
+    text-shadow: 1px 1px 1px white;
 }
 
-.shadow-em-1-2-2-white {
-    text-shadow: 1em 1em 2em white;
+.shadow-1-2-2-white {
+    text-shadow: 1px 1px 2px white;
 }
 
-.shadow-em-1-2-3-white {
-    text-shadow: 1em 1em 3em white;
+.shadow-1-2-3-white {
+    text-shadow: 1px 1px 3px white;
 }
 
-.shadow-em-1-2-4-white {
-    text-shadow: 1em 1em 4em white;
+.shadow-1-2-4-white {
+    text-shadow: 1px 1px 4px white;
 }
 
-.shadow-em-1-2-5-white {
-    text-shadow: 1em 1em 5em white;
+.shadow-1-2-5-white {
+    text-shadow: 1px 1px 5px white;
 }
 
-.shadow-em-1-2-6-white {
-    text-shadow: 1em 1em 6em white;
+.shadow-1-2-6-white {
+    text-shadow: 1px 1px 6px white;
 }
 
-.shadow-em-1-2-7-white {
-    text-shadow: 1em 1em 7em white;
+.shadow-1-2-7-white {
+    text-shadow: 1px 1px 7px white;
 }
 
-.shadow-em-1-2-8-white {
-    text-shadow: 1em 1em 8em white;
+.shadow-1-2-8-white {
+    text-shadow: 1px 1px 8px white;
 }
 
-.shadow-em-1-2-9-white {
-    text-shadow: 1em 1em 9em white;
+.shadow-1-2-9-white {
+    text-shadow: 1px 1px 9px white;
 }
 
-.shadow-em-1-2-10-white {
-    text-shadow: 1em 1em 10em white;
+.shadow-1-2-10-white {
+    text-shadow: 1px 1px 10px white;
 }
