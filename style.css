@@ -2,7 +2,7 @@ br {
     line-height: 1.5em;
 }
 
-/*! Display Types !*/
+/** Display Types **/
 .display-block {
     display: block;
 }
@@ -31,6 +31,7 @@ br {
     display: table;
 }
 
+/** Fonts **/
 /*! Font weight !*/
 .weight-900 {
     font-weight: 900;
@@ -200,6 +201,245 @@ br {
     font-family: serif;
 }
 /*// end of Font family  */
+/** First Big **/
+.first-1:first-letter {
+    font-size: 1px;
+}
+
+.first-2::first-letter {
+    font-size: 2px;
+}
+
+.first-3::first-letter {
+    font-size: 3px;
+}
+
+.first-4::first-letter {
+    font-size: 4px;
+}
+
+.first-5::first-letter {
+    font-size: 5px;
+}
+
+.first-6::first-letter {
+    font-size: 6px;
+}
+
+.first-7::first-letter {
+    font-size: 7px;
+}
+
+.first-8::first-letter {
+    font-size: 8px;
+}
+
+.first-9::first-letter {
+    font-size: 9px;
+}
+
+.first-10::first-letter {
+    font-size: 10px;
+}
+
+.first-11::first-letter {
+    font-size: 11px;
+}
+
+.first-12:first-letter {
+    font-size: 12px;
+}
+
+.first-13:first-letter {
+    font-size: 13px;
+}
+
+.first-14:first-letter {
+    font-size: 14px;
+}
+
+.first-15:first-letter {
+    font-size: 15px;
+}
+
+.first-16:first-letter {
+    font-size: 16px;
+}
+
+.first-17:first-letter {
+    font-size: 17px;
+}
+
+.first-18:first-letter {
+    font-size: 18px;
+}
+
+.first-19:first-letter {
+    font-size: 19px;
+}
+
+.first-20:first-letter {
+    font-size: 20px;
+}
+
+.first-21:first-letter {
+    font-size: 21px;
+}
+
+.first-22:first-letter {
+    font-size: 22px;
+}
+
+.first-23:first-letter {
+    font-size: 23px;
+}
+
+.first-24:first-letter {
+    font-size: 24px;
+}
+
+.first-25:first-letter {
+    font-size: 25px;
+}
+
+.first-26:first-letter {
+    font-size: 26px;
+}
+
+.first-27:first-letter {
+    font-size: 27px;
+}
+
+.first-28:first-letter {
+    font-size: 28px;
+}
+
+.first-29:first-letter {
+    font-size: 29px;
+}
+
+.first-30:first-letter {
+    font-size: 30px;
+}
+
+.first-31:first-letter {
+    font-size: 31px;
+}
+
+.first-32:first-letter {
+    font-size: 32px;
+}
+
+.first-34:first-letter {
+    font-size: 34px;
+}
+
+.first-35:first-letter {
+    font-size: 35px;
+}
+
+.first-36:first-letter {
+    font-size: 36px;
+}
+
+.first-36:first-letter {
+    font-size: 37px;
+}
+
+.first-38:first-letter {
+    font-size: 38px;
+}
+
+.first-39:first-letter {
+    font-size: 39px;
+}
+
+.first-40:first-letter {
+    font-size: 40px;
+}
+
+.first-41:first-letter {
+    font-size: 41px;
+}
+
+.first-42:first-letter {
+    font-size: 42px;
+}
+
+.first-43:first-letter {
+    font-size: 43px;
+}
+
+.first-44:first-letter {
+    font-size: 44px;
+}
+
+.first-45:first-letter {
+    font-size: 45px;
+}
+
+.first-46:first-letter {
+    font-size: 46px;
+}
+
+.first-47:first-letter {
+    font-size: 47px;
+}
+
+.first-48:first-letter {
+    font-size: 48px;
+}
+
+.first-49:first-letter {
+    font-size: 49px;
+}
+
+.first-50:first-letter {
+    font-size: 50px;
+}
+
+.first-51:first-letter {
+    font-size: 51px;
+}
+
+
+.first-52:first-letter {
+    font-size: 52px;
+}
+
+.first-53:first-letter {
+    font-size: 53px;
+}
+
+.first-54:first-letter {
+    font-size: 54px;
+}
+
+.first-55:first-letter {
+    font-size: 55px;
+}
+
+.first-56:first-letter {
+    font-size: 56px;
+}
+
+.first-57:first-letter {
+    font-size: 57px;
+}
+
+.first-58:first-letter {
+    font-size: 58px;
+}
+
+.first-59:first-letter {
+    font-size: 59px;
+}
+
+.first-60:first-letter {
+    font-size: 60px;
+}
+/*// End of First Big **/
+/*// end of Fonts  */
 
 /** Margins **/
 /*! Top margin !*/
@@ -721,39 +961,39 @@ br {
     border: 10px;
 }
 
-.boder-px-11 {
+.border-px-11 {
     border: 11px;
 }
 
-.boder-px-12 {
+.border-px-12 {
     border: 11px;
 }
 
-.boder-px-14 {
+.border-px-14 {
     border: 14px;
 }
 
-.boder-px-16 {
+.border-px-16 {
     border: 16px;
 }
 
-.boder-px-18 {
+.border-px-18 {
     border: 18px;
 }
 
-.boder-px-20 {
+.border-px-20 {
     border: 20px;
 }
 
-.boder-px-25 {
+.border-px-25 {
     border: 25px;
 }
 
-.boder-px-50 {
+.border-px-50 {
     border: 50px;
 }
 
-.boder-px-100 {
+.border-px-100 {
     border: 100px;
 }
 /*// end of Border Sizes */
@@ -873,10 +1113,6 @@ br {
 
 /*! White shadow !*/
 /*? SMALL ?*/
-.shadow-1-1-10-white {
-    text-shadow: 1px 1px 10px white;
-}
-
 .shadow-1-1-1-white {
     text-shadow: 1px 1px 1px white;
 }
@@ -916,12 +1152,48 @@ br {
 .shadow-1-1-10-white {
     text-shadow: 1px 1px 10px white;
 }
-
-/*? Bigger ?*/
-.shadow-2-1-10-white {
-    text-shadow: 1px 1px 10px white;
+/*? SMALL INVERTED ?*/
+.shadow-_1-_1-1-white {
+    text-shadow: -1px -1px 1px white;
 }
 
+.shadow-_1-_1-2-white {
+    text-shadow: -1px -1px 2px white;
+}
+
+.shadow-_1-_1-3-white {
+    text-shadow: -1px -1px 3px white;
+}
+
+.shadow-_1-_1-4-white {
+    text-shadow: -1px -1px 4px white;
+}
+
+.shadow-_1-_1-5-white {
+    text-shadow: -1px -1px 5px white;
+}
+
+.shadow-_1-_1-6-white {
+    text-shadow: -1px -1px 6px white;
+}
+
+.shadow-_1-_1-7-white {
+    text-shadow: -1px -1px 7px white;
+}
+
+.shadow-_1-_1-8-white {
+    text-shadow: -1px -1px 8px white;
+}
+
+.shadow-_1-_1-9-white {
+    text-shadow: -1px -1px 9px white;
+}
+
+.shadow-_1-_1-10-white {
+    text-shadow: -1px -1px 10px white;
+}
+
+/*? BIGGER ?*/
 .shadow-2-1-1-white {
     text-shadow: 1px 1px 1px white;
 }
@@ -963,10 +1235,6 @@ br {
 }
 
 /* sides */
-.shadow-1-2-10-white {
-    text-shadow: 1px 1px 10px white;
-}
-
 .shadow-1-2-1-white {
     text-shadow: 1px 1px 1px white;
 }
@@ -1005,4 +1273,85 @@ br {
 
 .shadow-1-2-10-white {
     text-shadow: 1px 1px 10px white;
+}
+/*? BIGGER INVERTED ?*/
+.shadow-2-_1-_1-_1-white {
+    text-shadow: -1px -1px 1px white;
+}
+
+.shadow-2-_1-_2-white {
+    text-shadow: -1px -1px 2px white;
+}
+
+.shadow-_2-_1-3-white {
+    text-shadow: -1px -1px 3px white;
+}
+
+.shadow-_2-_1-4-white {
+    text-shadow: -1px -1px 4px white;
+}
+
+.shadow-_2-_1-5-white {
+    text-shadow: -1px -1px 5px white;
+}
+
+.shadow-_2-_1-6-white {
+    text-shadow: -1px -1px 6px white;
+}
+
+.shadow-_2-_1-7-white {
+    text-shadow: -1px -1px 7px white;
+}
+
+.shadow-_2-_1-8-white {
+    text-shadow: -1px -1px 8px white;
+}
+
+.shadow-_2-_1-9-white {
+    text-shadow: -1px -1px 9px white;
+}
+
+.shadow-_2-_1-10-white {
+    text-shadow: -1px -1px 10px white;
+}
+
+/* sides */
+.shadow-_1-_21-white {
+    text-shadow: -1px -1px -1px white;
+}
+
+.shadow-_1-_2-2-white {
+    text-shadow: -1px -1px 2px white;
+}
+
+.shadow-_1-_2-3-white {
+    text-shadow: -1px -1px 3px white;
+}
+
+.shadow-_1-_2-4-white {
+    text-shadow: -1px -1px 4px white;
+}
+
+.shadow-_1-_2-5-white {
+    text-shadow: -1px -1px 5px white;
+}
+
+.shadow-_1-_2-6-white {
+    text-shadow: -1px -1px 6px white;
+}
+
+.shadow-_1-_2-7-white {
+    text-shadow: -1px -1px 7px white;
+}
+
+.shadow-_1-_2-8-white {
+    text-shadow: -1px -1px 8px white;
+}
+
+.shadow-_1-_2-9-white {
+    text-shadow: -1px -1px 9px white;
+}
+
+.shadow-_1-_2-10-white {
+    text-shadow: -1px -1px 10px white;
 }
