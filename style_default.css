@@ -1,9 +1,21 @@
 body {
     min-height: 100%;
-    background: #303030;
+    background-repeat: no-repeat;
+    background: #454545;
+    color: wheat;
 }
 
 div {
     display: block;
 }
 
+img {
+    aspect-ratio: auto;
+    width: 300px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 25px;
+    flex-wrap: wrap;
+}
