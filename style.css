@@ -1677,14 +1677,9 @@ br {
 .over-scroll {
    overflow: scroll;
 }
-
 /*// end of Overflows */
 
 /*! Addional !*/
-
-
-
-
 .no-whitespace {
    whitespace: none;
 }
@@ -1703,7 +1698,6 @@ br {
 .no-content {
    content:'';
 }
-
 
 /* 
     //END
