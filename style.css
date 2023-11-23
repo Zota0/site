@@ -202,240 +202,241 @@ br {
 }
 /*// end of Font family  */
 /** First Big **/
-.first-1:first-letter {
+
+.first-1::first-letter {
     font-size: 1px;
 }
 
-.first-2:first-letter {
+.first-2::first-letter {
     font-size: 2px;
 }
 
-.first-3:first-letter {
+.first-3::first-letter {
     font-size: 3px;
 }
 
-.first-4:first-letter {
+.first-4::first-letter {
     font-size: 4px;
 }
 
-.first-5:first-letter {
+.first-5::first-letter {
     font-size: 5px;
 }
 
-.first-6:first-letter {
+.first-6::first-letter {
     font-size: 6px;
 }
 
-.first-7:first-letter {
+.first-7::first-letter {
     font-size: 7px;
 }
 
-.first-8:first-letter {
+.first-8::first-letter {
     font-size: 8px;
 }
 
-.first-9:first-letter {
+.first-9::first-letter {
     font-size: 9px;
 }
 
-.first-10:first-letter {
+.first-10::first-letter {
     font-size: 10px;
 }
 
-.first-11:first-letter {
+.first-11::first-letter {
     font-size: 11px;
 }
 
-.first-12:first-letter {
+.first-12::first-letter {
     font-size: 12px;
 }
 
-.first-13:first-letter {
+.first-13::first-letter {
     font-size: 13px;
 }
 
-.first-14:first-letter {
+.first-14::first-letter {
     font-size: 14px;
 }
 
-.first-15:first-letter {
+.first-15::first-letter {
     font-size: 15px;
 }
 
-.first-16:first-letter {
+.first-16::first-letter {
     font-size: 16px;
 }
 
-.first-17:first-letter {
+.first-17::first-letter {
     font-size: 17px;
 }
 
-.first-18:first-letter {
+.first-18::first-letter {
     font-size: 18px;
 }
 
-.first-19:first-letter {
+.first-19::first-letter {
     font-size: 19px;
 }
 
-.first-20:first-letter {
+.first-20;:first-letter {
     font-size: 20px;
 }
 
-.first-21:first-letter {
+.first-21::first-letter {
     font-size: 21px;
 }
 
-.first-22:first-letter {
+.first-22::first-letter {
     font-size: 22px;
 }
 
-.first-23:first-letter {
+.first-23::first-letter {
     font-size: 23px;
 }
 
-.first-24:first-letter {
+.first-24::first-letter {
     font-size: 24px;
 }
 
-.first-25:first-letter {
+.first-25::first-letter {
     font-size: 25px;
 }
 
-.first-26:first-letter {
+.first-26::first-letter {
     font-size: 26px;
 }
 
-.first-27:first-letter {
+.first-27::first-letter {
     font-size: 27px;
 }
 
-.first-28:first-letter {
+.first-28::first-letter {
     font-size: 28px;
 }
 
-.first-29:first-letter {
+.first-29::first-letter {
     font-size: 29px;
 }
 
-.first-30:first-letter {
+.first-30::first-letter {
     font-size: 30px;
 }
 
-.first-31:first-letter {
+.first-31::first-letter {
     font-size: 31px;
 }
 
-.first-32:first-letter {
+.first-32::first-letter {
     font-size: 32px;
 }
 
-.first-34:first-letter {
+.first-34::first-letter {
     font-size: 34px;
 }
 
-.first-35:first-letter {
+.first-35::first-letter {
     font-size: 35px;
 }
 
-.first-36:first-letter {
+.first-36::first-letter {
     font-size: 36px;
 }
 
-.first-36:first-letter {
+.first-36:;first-letter {
     font-size: 37px;
 }
 
-.first-38:first-letter {
+.first-38::first-letter {
     font-size: 38px;
 }
 
-.first-39:first-letter {
+.first-39::first-letter {
     font-size: 39px;
 }
 
-.first-40:first-letter {
+.first-40::first-letter {
     font-size: 40px;
 }
 
-.first-41:first-letter {
+.first-41::first-letter {
     font-size: 41px;
 }
 
-.first-42:first-letter {
+.first-42::first-letter {
     font-size: 42px;
 }
 
-.first-43:first-letter {
+.first-43::first-letter {
     font-size: 43px;
 }
 
-.first-44:first-letter {
+.first-44::first-letter {
     font-size: 44px;
 }
 
-.first-45:first-letter {
+.first-45::first-letter {
     font-size: 45px;
 }
 
-.first-46:first-letter {
+.first-46::first-letter {
     font-size: 46px;
 }
 
-.first-47:first-letter {
+.first-47::first-letter {
     font-size: 47px;
 }
 
-.first-48:first-letter {
+.first-48::first-letter {
     font-size: 48px;
 }
 
-.first-49:first-letter {
+.first-49::first-letter {
     font-size: 49px;
 }
 
-.first-50:first-letter {
+.first-50::first-letter {
     font-size: 50px;
 }
 
-.first-51:first-letter {
+.first-51::first-letter {
     font-size: 51px;
 }
 
 
-.first-52:first-letter {
+.first-52::first-letter {
     font-size: 52px;
 }
 
-.first-53:first-letter {
+.first-53::first-letter {
     font-size: 53px;
 }
 
-.first-54:first-letter {
+.first-54::first-letter {
     font-size: 54px;
 }
 
-.first-55:first-letter {
+.first-55::first-letter {
     font-size: 55px;
 }
 
-.first-56:first-letter {
+.first-56::first-letter {
     font-size: 56px;
 }
 
-.first-57:first-letter {
+.first-57::first-letter {
     font-size: 57px;
 }
 
-.first-58:first-letter {
+.first-58::first-letter {
     font-size: 58px;
 }
 
-.first-59:first-letter {
+.first-59::first-letter {
     font-size: 59px;
 }
 
-.first-60:first-letter {
+.first-60::first-letter {
     font-size: 60px;
 }
 /*// End of First Big **/
