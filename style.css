@@ -1471,6 +1471,20 @@ br {
 .width-100 {
    width: 100%;
 }
+/*// end of Widths */
+
+/*! Addional !*/
+.no-select {
+   user-select: none;
+}
+
+.no-zoom {
+   user-zoom: no-zoom;
+
+.no-webkit-apperance {
+   ::-webkit-apperance: none;
+}
+
 
 /* 
     //END
