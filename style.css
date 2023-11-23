@@ -206,43 +206,43 @@ br {
     font-size: 1px;
 }
 
-.first-2::first-letter {
+.first-2:first-letter {
     font-size: 2px;
 }
 
-.first-3::first-letter {
+.first-3:first-letter {
     font-size: 3px;
 }
 
-.first-4::first-letter {
+.first-4:first-letter {
     font-size: 4px;
 }
 
-.first-5::first-letter {
+.first-5:first-letter {
     font-size: 5px;
 }
 
-.first-6::first-letter {
+.first-6:first-letter {
     font-size: 6px;
 }
 
-.first-7::first-letter {
+.first-7:first-letter {
     font-size: 7px;
 }
 
-.first-8::first-letter {
+.first-8:first-letter {
     font-size: 8px;
 }
 
-.first-9::first-letter {
+.first-9:first-letter {
     font-size: 9px;
 }
 
-.first-10::first-letter {
+.first-10:first-letter {
     font-size: 10px;
 }
 
-.first-11::first-letter {
+.first-11:first-letter {
     font-size: 11px;
 }
 
