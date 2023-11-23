@@ -1,3 +1,9 @@
+body {
+    min-height: 100% !important; a 
+    margin: 0 !important;
+    overflow: hidden;
+}
+
 br {
     line-height: 1.5em;
 }
@@ -1485,6 +1491,9 @@ br {
    ::-webkit-apperance: none;
 }
 
+.no-content {
+   content:'';
+}
 
 /* 
     //END
